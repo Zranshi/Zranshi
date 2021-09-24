@@ -9,7 +9,7 @@
 
 #### 我的GitHub状态 (╯‵□′)╯︵┻━┻
 
-![Zranshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zranshi&show_icons=true&count_private=true)
+![Zranshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zranshi&show_icons=true&count_private=true&include_all_commits=true)
 
 #### 我最常用的语言 (⁎⁍̴̛ᴗ⁍̴̛⁎)
 
