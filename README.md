@@ -6,11 +6,10 @@
 
 这里是我的博客, 要来看一下嘛? ==> [传送门](https://zranshi.github.io/) <== 
 
-<br>
 
-#### 我的状态 (╯‵□′)╯︵┻━┻
+#### 我的GitHub状态 (╯‵□′)╯︵┻━┻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zranshi&show_icons=true)
+![Zranshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zranshi&show_icons=true&theme=Gradient)
 
 #### 我最常用的语言 (⁎⁍̴̛ᴗ⁍̴̛⁎)
 
