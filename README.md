@@ -6,4 +6,4 @@
 
 这里是我的博客, 要来看一下嘛? ==> [传送门](https://zranshi.github.io/) <== 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zranshi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zranshi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
