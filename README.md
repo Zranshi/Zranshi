@@ -16,4 +16,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zranshi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=NWYLZW&theme=vue-dark&repo=right-click-helper">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NWYLZW&theme=vue-dark&repo=right-click-helper">
