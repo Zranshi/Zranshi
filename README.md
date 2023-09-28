@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-这里是Ranshi，一个热爱编程的计算机学生。
+这里是Ranshi
 
 主要感兴趣的是Python和Go，对前端和后端都有涉猎。
 
